@@ -1,0 +1,10 @@
+D:\Projects2\MazeGame\MazeGame\bin\Debug\MazeGame.exe.config
+D:\Projects2\MazeGame\MazeGame\bin\Debug\MazeGame.exe
+D:\Projects2\MazeGame\MazeGame\bin\Debug\MazeGame.pdb
+D:\Projects2\MazeGame\MazeGame\obj\Debug\MazeGame.csprojAssemblyReference.cache
+D:\Projects2\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.CoreCompileInputs.cache
+D:\Projects2\MazeGame\MazeGame\obj\Debug\MazeGame.exe
+D:\Projects2\MazeGame\MazeGame\obj\Debug\MazeGame.pdb
+D:\Projects2\MazeGame\MazeGame\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Projects2\MazeGame\MazeGame\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Projects2\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.CopyComplete
