@@ -71,7 +71,7 @@ namespace MazeGame
         //We used ASCII symbols for a more pleasing look! we used "▀" for the bottom border and "▄" for the top border, we also used "█" as the walls and "§" as the player.
         public void FirstMaze()
         {
-
+            // Array string[,]
             string[,] grid =
             {
                 { "▄", "▄", "▄", "▄", "▄", "▄", "▄", "▄", "▄", "▄", "▄", "▄", "▄", "▄", "▄", "▄", "▄", },
